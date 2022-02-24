@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rhaynet/Rhaynet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my page, I'm a guy 
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,4 @@ Welcome to my page, I'm a guy
 - 📫 You can reach me on Twitter @rhaynet1
 - 😄 let's have fun!
 - ⚡ Fun fact: I'm probably Tony Starks biggest fan😊
--->
+
