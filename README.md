@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my page, I'm a curious learner who loves challenges and loves to build amazing stuffs.
+Welcome to my page, I'm a curious learner who loves challenges and loves to build amazing stuff.
 
 
 - 🔭 I’m currently working on a cross-platform video conferencing mobile app like Zoom 
