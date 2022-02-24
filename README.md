@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to my page, I'm a guy 
+Welcome to my page, I'm a curious learner who loves challenges and loves to build amazing stuffs.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning how to build better and more efficient mobile apps 
